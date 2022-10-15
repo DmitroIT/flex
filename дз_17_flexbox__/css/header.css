@@ -1,0 +1,46 @@
+.header {
+  padding: 1.5625rem 0;
+  border-top: 1px solid #808080;
+  border-bottom: 1px solid #808080;
+}
+.logo {
+  padding: 0;
+  margin: 0;
+}
+header .container {
+  padding: 0;
+}
+.header__btn {
+  width: 7.5rem;
+  height: 2.8125rem;
+  line-height: 2.8125rem;
+}
+
+.btn-white {
+  background-color: #ffffff;
+}
+
+.header__item {
+  margin: 0 0 0 3.125rem;
+  display: flex;
+}
+.header__list {
+  margin: 0 2.5rem 0 0;
+  font-size: 0.9375rem;
+}
+.header__list a {
+  text-decoration: none;
+  color: #000000;
+}
+.btn__box {
+  display: flex;
+}
+.header .btn__box {
+  margin-right: 0;
+  margin-left: auto;
+}
+
+.header__flex {
+  display: flex;
+  align-items: center;
+}
